@@ -1,4 +1,4 @@
-package com.vinkas.application;
+package com.vinkas.support;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

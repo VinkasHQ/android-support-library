@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Vinkas.Light.DarkActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="Theme.Vinkas.SplashScreen" parent="Theme.Vinkas.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/background_splash_screen</item>
+    </style>
+</resources>
